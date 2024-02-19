@@ -1,6 +1,6 @@
 # Instructions  
 
-## PRACTICUM 24 - Special Variable this in Java.<br>
+## PRACTICUM 24 - Special Variable `this` in Java.<br>
 
 ### BACKGROUND
 Object-oriented programming languages normally provide
